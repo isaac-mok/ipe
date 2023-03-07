@@ -12,10 +12,10 @@ import (
 
 	log "github.com/golang/glog"
 
-	"ipe/channel"
-	"ipe/connection"
-	"ipe/events"
-	"ipe/subscription"
+	"github.com/isaac-mok/ipe/channel"
+	"github.com/isaac-mok/ipe/connection"
+	"github.com/isaac-mok/ipe/events"
+	"github.com/isaac-mok/ipe/subscription"
 )
 
 // Application represents a Pusher application

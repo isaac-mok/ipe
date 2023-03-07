@@ -8,9 +8,9 @@ import (
 	"strconv"
 	"testing"
 
-	channel2 "ipe/channel"
-	"ipe/connection"
-	"ipe/mocks"
+	channel2 "github.com/isaac-mok/ipe/channel"
+	"github.com/isaac-mok/ipe/connection"
+	"github.com/isaac-mok/ipe/mocks"
 )
 
 var id = 0

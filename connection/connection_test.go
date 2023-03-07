@@ -5,8 +5,9 @@
 package connection
 
 import (
-	"ipe/mocks"
 	"testing"
+
+	"github.com/isaac-mok/ipe/mocks"
 )
 
 func TestNewConnection(t *testing.T) {

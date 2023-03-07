@@ -5,10 +5,11 @@
 package channel
 
 import (
-	"ipe/connection"
-	"ipe/mocks"
-	"ipe/subscription"
 	"testing"
+
+	"github.com/isaac-mok/ipe/connection"
+	"github.com/isaac-mok/ipe/mocks"
+	"github.com/isaac-mok/ipe/subscription"
 )
 
 func TestIsOccupied(t *testing.T) {

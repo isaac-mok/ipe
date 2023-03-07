@@ -16,11 +16,11 @@ import (
 	"github.com/gorilla/mux"
 	"github.com/gorilla/websocket"
 
-	"ipe/app"
-	"ipe/connection"
-	"ipe/events"
-	"ipe/storage"
-	"ipe/utils"
+	"github.com/isaac-mok/ipe/app"
+	"github.com/isaac-mok/ipe/connection"
+	"github.com/isaac-mok/ipe/events"
+	"github.com/isaac-mok/ipe/storage"
+	"github.com/isaac-mok/ipe/utils"
 )
 
 // Only this version is supported

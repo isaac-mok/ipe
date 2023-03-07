@@ -10,11 +10,11 @@ import (
 
 	"github.com/gorilla/mux"
 
-	"ipe/app"
-	channel2 "ipe/channel"
-	"ipe/connection"
-	"ipe/mocks"
-	"ipe/storage"
+	"github.com/isaac-mok/ipe/app"
+	channel2 "github.com/isaac-mok/ipe/channel"
+	"github.com/isaac-mok/ipe/connection"
+	"github.com/isaac-mok/ipe/mocks"
+	"github.com/isaac-mok/ipe/storage"
 )
 
 var (

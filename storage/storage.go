@@ -6,8 +6,9 @@ package storage
 
 import (
 	"errors"
-	"ipe/app"
 	"sync"
+
+	"github.com/isaac-mok/ipe/app"
 )
 
 // Storage represents a app database

@@ -5,8 +5,9 @@
 package storage
 
 import (
-	"ipe/app"
 	"testing"
+
+	"github.com/isaac-mok/ipe/app"
 )
 
 func Benchmark_memdb_GetAppByAppID(b *testing.B) {

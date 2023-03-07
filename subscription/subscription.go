@@ -4,7 +4,7 @@
 
 package subscription
 
-import "ipe/connection"
+import "github.com/isaac-mok/ipe/connection"
 
 // Subscription A Channel Subscription
 type Subscription struct {
