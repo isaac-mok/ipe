@@ -1,4 +1,4 @@
-module ipe
+module github.com/isaac-mok/ipe
 
 require (
 	github.com/davecgh/go-spew v1.1.1 // indirect
